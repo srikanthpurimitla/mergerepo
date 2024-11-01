@@ -1,3 +1,7 @@
 local file created
+<<<<<<< HEAD
 modified in merge
+=======
+change in feature branch
+>>>>>>> featurebranch
 
